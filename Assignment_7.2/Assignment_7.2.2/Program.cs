@@ -76,12 +76,12 @@ string ReverseVowels(string inputString)
 
     while (leftPointer < rightPointer)
     {
-        if (!isVowel(chars[leftPointer]))
+        if (!isVowel(chars[leftPointer]))//skip past anything that's not a vowel
         {
             leftPointer++; //Only increment if it's not a vowel'
             continue;
         }
-        if (!isVowel(chars[rightPointer]))
+        if (!isVowel(chars[rightPointer]))//skip past anything that's not a vowel
         {
             rightPointer--;
             continue;
@@ -91,8 +91,8 @@ string ReverseVowels(string inputString)
         chars[leftPointer] = chars[rightPointer];
         chars[rightPointer] = temp;
 
-        leftPointer++;
-        rightPointer--;
+        leftPointer++; //Increment left pointer after swapping
+        rightPointer--; //Decrement right pointer after swapping
     }
 
     return new string(chars);
