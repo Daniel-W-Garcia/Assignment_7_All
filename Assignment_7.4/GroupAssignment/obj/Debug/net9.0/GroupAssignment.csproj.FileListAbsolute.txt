@@ -1,0 +1,15 @@
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\bin\Debug\net9.0\GroupAssignment.exe
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\bin\Debug\net9.0\GroupAssignment.deps.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\bin\Debug\net9.0\GroupAssignment.runtimeconfig.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\bin\Debug\net9.0\GroupAssignment.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\bin\Debug\net9.0\GroupAssignment.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.AssemblyInfoInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.AssemblyInfo.cs
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.csproj.CoreCompileInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.sourcelink.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\refint\GroupAssignment.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\GroupAssignment.genruntimeconfig.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_7_All\Assignment_7.4\GroupAssignment\obj\Debug\net9.0\ref\GroupAssignment.dll
