@@ -9,7 +9,11 @@
 8. Test Again
 
 Take 2 strings and shuffle them alternately.
+Are we considering case?
+Are we considering punctuation?
+
 abc, def ---> a,d,b,e,c,f
+This!, That? --> TThhiast!?
 
 Option 1: Use string builder to build the string
 
